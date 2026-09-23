@@ -1,5 +1,4 @@
-# HR-Employee-Attrition-PowerBI
-Interactive HR Analytics dashboard using Power BI to analyze employee attrition, workforce trends, satisfaction, overtime, compensation, and key HR KPIs.
+
 # HR Employee Attrition Analysis | Power BI
 
 ## 📌 Project Overview
@@ -163,7 +162,9 @@ The Power BI dashboard provides an interactive view of:
 
 ### Dashboard Preview
 
-Add your dashboard screenshot here:
+Add your dashboard screenshot here:https://github.com/Ameesha3/HR-Employee-Attrition-PowerBI/blob/main/Attribution%20overview.png
+https://github.com/Ameesha3/HR-Employee-Attrition-PowerBI/blob/main/Demographic%20deep%20dive.png
+https://github.com/Ameesha3/HR-Employee-Attrition-PowerBI/blob/main/Job%20compensation.png
 ```
 
 ---
